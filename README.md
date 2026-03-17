@@ -1,0 +1,2 @@
+# OpenChat-for-Linux---OpenAi-chat-by-Snippetsupply.com
+OpenChat for Linux is a lightweight desktop client for OpenAI Chat (ChatGPT) built for Linux users who want a dedicated app instead of living in a browser tab. It’s designed to stay responsive even in very long conversations by smart-loading chat history as you scroll and trimming the live DOM window so performance doesn’t degrade over time. 
